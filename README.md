@@ -1,7 +1,7 @@
 cocoapods-licensespage-gen
 ==========================
 
-Generatelicenses html page from your Podfile.
+Generate LICENSES html page from your Podfile.
 
 run:
 
